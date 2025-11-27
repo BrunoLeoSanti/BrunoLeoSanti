@@ -1,108 +1,106 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Bruno Leo Santi - Developer CV</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 800px; margin: 24px auto; color: #111; line-height:1.35; }
-    h1 { margin: 0; font-size: 20px; }
-    h2 { margin: 18px 0 6px; font-size: 13px; color:#222; text-transform:uppercase; letter-spacing:0.8px; }
-    p { margin: 6px 0; font-size: 12.5px; }
-    ul { margin: 6px 0 12px 18px; font-size: 12.5px; }
-    .contact { font-size: 12px; margin-top:6px; }
-    .section { margin-bottom: 8px; }
-    .muted { color: #444; font-size: 12px; }
-    pre { background: #f6f6f6; padding:12px; white-space: pre-wrap; font-family: monospace; font-size:12px; border-radius:4px; }
-    a { color: #0b66c3; text-decoration: none; }
-  </style>
-</head>
-<body>
-  <h1>Bruno Leo Santi</h1>
-  <p class="muted">Age: 23 • Rosario, Santa Fe, Argentina</p>
+<h2 align="center"> Hola 👋 , Soy Bruno Leo Santi <br/></h2> 
+<h3 align="center">
+  Desarrollador Junior en formación  
+  <br><br>
+  <a href="https://github.com/BrunoLeoSanti" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/BrunoLeoSanti?label=Seguidores%20en%20GitHub&style=for-the-badge">
+  </a>
+  <br><br>
+  <a href="https://github.com/BrunoLeoSanti" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=BrunoLeoSanti&label=Visitas&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
+</h3>   
 
-  <div class="contact">
-    <strong>Phone:</strong> 3415794327 &nbsp; • &nbsp;
-    <strong>Email:</strong> brunolesnaberes@gmail.com &nbsp; • &nbsp;
-    <strong>GitHub:</strong> <a href="https://github.com/BrunoLeoSanti">github.com/BrunoLeoSanti</a>
-  </div>
+---
 
-  <div class="section">
-    <h2>Profile</h2>
-    <p>Advanced Systems Engineering student (UTN) with practical experience building web projects and academic work. Knowledge of programming, backend and frontend basics, databases and web scraping. Seeking a junior developer role to gain professional experience and keep learning.</p>
-  </div>
+# 😊 Sobre mí
 
-  <div class="section">
-    <h2>Technical Skills</h2>
-    <p><strong>Languages:</strong> TypeScript, JavaScript, Python, C, C++, SQL</p>
-    <p><strong>Backend:</strong> Node.js, Express, REST APIs, scraping (Cheerio, Axios), Playwright (dynamic scraping)</p>
-    <p><strong>Frontend:</strong> React, Vite, HTML, CSS</p>
-    <p><strong>Databases:</strong> MySQL, SQLite</p>
-    <p><strong>Tools:</strong> Git / GitHub, Docker (basic)</p>
-  </div>
+- 🎓 **Estudiante de Ingeniería en Sistemas (UTN)**  
+- 💼 Experiencia como **técnico en PC** (hardware, diagnósticos, soporte)  
+- 🧠 Apasionado por el **backend, scraping, automatización y APIs**  
+- 🚀 En busca de mi **primer rol como desarrollador junior**  
+- 📍 **Rosario, Santa Fe, Argentina**  
+- ✉️ Email: **brunoleosanti@gmail.com**  
+- 🔗 GitHub: **https://github.com/BrunoLeoSanti**
+- 🔗 LinkedIn: **https://linkedin.com/in/bruno-santi-3a04bb358**
 
-  <div class="section">
-    <h2>Experience</h2>
-    <p><strong>PC Technician — Self-employed</strong> (2020–Present)</p>
-    <ul>
-      <li>Hardware repair, assembly and maintenance</li>
-      <li>Diagnostics and technical support</li>
-    </ul>
-    <p><strong>Personal & Academic Projects</strong></p>
-    <ul>
-      <li>APIs with TypeScript + Express; SQL database integration</li>
-      <li>Web scraping (static and dynamic) and React frontends</li>
-      <li>Computer vision experiments (YOLOv11) and small automation tasks</li>
-    </ul>
-  </div>
+---
 
-  <div class="section">
-    <h2>Education</h2>
-    <p>Systems Engineering — UTN (2022–Present)</p>
-    <p>Electronics Technician — Instituto Politécnico Superior (2015–2021)</p>
-  </div>
+# 🛠️ Tecnologías y Lenguajes  
+<h2 align="center"> Tecnologías y Lenguajes </h2>
 
-  <div class="section">
-    <h2>Soft Skills</h2>
-    <p>Problem solving · Logical thinking · Teamwork · Adaptability · Self-learning</p>
-  </div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  <h2>Plain text version</h2>
-  <pre>
-Bruno Leo Santi
-Age: 23
-Location: Rosario, Santa Fe, Argentina
-Phone: 3415794327
-Email: brunolesnaberes@gmail.com
-GitHub: https://github.com/BrunoLeoSanti
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Profile
-Advanced Systems Engineering student (UTN) with practical experience building web projects and academic work. Knowledge of programming, backend and frontend basics, databases and web scraping. Seeking a junior developer role to gain professional experience.
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Technical Skills
-Languages: TypeScript, JavaScript, Python, C, C++, SQL
-Backend: Node.js, Express, REST APIs, Scraping (Cheerio, Axios), Playwright
-Frontend: React, Vite, HTML, CSS
-Databases: MySQL, SQLite
-Tools: Git/GitHub, Docker (basic)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Experience
-PC Technician — Self-employed (2020–Present)
-- Hardware repair, assembly and maintenance
-- Diagnostics and technical support
+---
 
-Personal & Academic Projects
-- APIs with TypeScript + Express; SQL integration
-- Web scraping (static/dynamic), React frontends
-- YOLOv11 experiments and automation scripts
+# 💼 Experiencia
 
-Education
-Systems Engineering — UTN (2022–Present)
-Electronics Technician — Instituto Politécnico Superior (2015–2021)
+### 🖥️ **Técnico en PC — Independiente (2020–Presente)**
+- Reparación, armado y mantenimiento  
+- Diagnósticos y soporte técnico  
+- Optimización de rendimiento  
 
-Soft Skills
-Problem solving, logical thinking, teamwork, adaptability, self-learning
-  </pre>
+### 📚 **Proyectos Personales y Académicos**
+- APIs con **TypeScript + Express** + SQL  
+- **Web scraping** estático y dinámico (Cheerio, Axios, Playwright)  
+- Frontends con **React + Vite**  
+- Experimentos con visión por computadora (**YOLOv11**)  
+- Pequeños scripts de automatización  
 
-</body>
-</html>
+---
+
+# 🎓 Educación
+- 👨‍🎓 **Ingeniería en Sistemas – UTN (2022–Actualidad)**  
+- 🛠️ **Técnico en Electrónica — Instituto Politécnico Superior (2015–2021)**  
+
+---
+
+# 🧩 Habilidades Blandas
+- Resolución de problemas  
+- Pensamiento lógico  
+- Trabajo en equipo  
+- Adaptabilidad  
+- Autodidacta  
+
+---
+
+<h2 align="center"> ⚡ Fun fact </h2>
+
+<div align="center">
+  
+✨ Me encanta aprender, programar y romper cosas para mejorarlas luego 😄 ✨  
+
+</div>
+
+---
+
+# 🤝 ¡Conectemos!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-santi-3a04bb358)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoleosanti@gmail.com)
+
+---
+
+<div align="center">
+
+🌟 **Si te gusta mi perfil, dejá una estrella ⭐ en mis repositorios** 🌟  
+
+</div>
+
+
