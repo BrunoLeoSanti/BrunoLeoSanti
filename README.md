@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!doctype html>
 <html lang="en">
 <head>
